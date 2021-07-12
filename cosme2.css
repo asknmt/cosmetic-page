@@ -160,6 +160,12 @@
     padding: 24px;
     font-size: 1rem;
   }  
+    .site-concept {
+    font-size: 1.1rem;
+    margin-top: 40px;
+    line-height: 1.2;
+  }  
+
   /*コンセプト*/
 .concept-img img,.concept-img img,.collection-img img,.point-img img,.infp-img img {
   margin-top: 104px;
