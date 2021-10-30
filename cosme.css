@@ -55,7 +55,7 @@ header li:hover {
 }
 .top h1 {
   margin: 184px 0 64px 0;
-  font-size: 2rem;
+  font-size: 2.5rem;
   border-bottom: solid 5px #dae4ff;
   padding-bottom: 4px;
   display: inline-block;
@@ -70,23 +70,23 @@ header li:hover {
   margin: 0 auto;
 }
 .top-description h2,.details h2 {
-  font-size: 1.8rem;
+  font-size: 2.3rem;
   border-bottom: solid 5px #dae4ff;
   padding-bottom: 4px;
   display: inline;
 }
 .top-description h3 {
   margin: 40px 0 64px 0;
-  font-size: 1.5rem;
+  font-size: 2rem;
   text-align: center;
 }
 .description-p {
-  font-size: 1.3rem;
+  font-size: 1.8rem;
   line-height: 1.2;
   white-space: pre-line;
 }
 .setting h4,.purpose h4,.color h4 {
-  font-size: 1.3rem;
+  font-size: 1.8rem;
   border-bottom: solid 5px #dae4ff;
   padding-bottom: 4px;
   display: inline;
@@ -103,10 +103,10 @@ header li:hover {
 }
 .site {
   margin-top: 40px;
-  font-size: 1.2rem;
+  font-size: 1.7rem;
 }
 .site-concept {
-  font-size: 1.3rem;
+  font-size: 1.8rem;
   margin-top: 56px;
   font-weight: normal;
 }
@@ -132,7 +132,7 @@ header li:hover {
 .top-detail p,.concept-detail p,.collection-detail p,.point-detail p,.info-detail p {
   margin-top: 40px;
   padding: 40px;
-  font-size: 1.2rem;
+  font-size: 1.7rem;
   line-height: 1.5;
   background-color: #f1f4fc;
 }
@@ -148,7 +148,7 @@ header li:hover {
   margin: 0 auto;
 }
 .time h5 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   border-bottom: solid 5px #dae4ff;
   padding-bottom: 4px;
   display: inline-block;
