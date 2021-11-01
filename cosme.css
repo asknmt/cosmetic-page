@@ -81,12 +81,12 @@ header li:hover {
   text-align: center;
 }
 .description-p {
-  font-size: 1.8rem;
+  font-size: 1.3rem;
   line-height: 1.2;
   white-space: pre-line;
 }
 .setting h4,.purpose h4,.color h4 {
-  font-size: 1.8rem;
+  font-size: 1.3rem;
   border-bottom: solid 5px #dae4ff;
   padding-bottom: 4px;
   display: inline;
@@ -103,10 +103,10 @@ header li:hover {
 }
 .site {
   margin-top: 40px;
-  font-size: 1.7rem;
+  font-size: 1.2rem;
 }
 .site-concept {
-  font-size: 1.8rem;
+  font-size: 1.3rem;
   margin-top: 56px;
   font-weight: normal;
 }
@@ -132,7 +132,7 @@ header li:hover {
 .top-detail p,.concept-detail p,.collection-detail p,.point-detail p,.info-detail p {
   margin-top: 40px;
   padding: 40px;
-  font-size: 1.7rem;
+  font-size: 1.2rem;
   line-height: 1.5;
   background-color: #f1f4fc;
 }
